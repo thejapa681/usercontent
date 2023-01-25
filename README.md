@@ -1,8 +1,8 @@
 {
  "version":"1",
- "title":" Jajajajhabs!",
- "description":"THE DEATH 💀 GATO DE BOTAS 2 O MAIS COMPLETO WHATSAPP DA ATUALIDADE CONTENDO A NOVA FUNÇÃO DE EDITAR MENSAGEM EM TEMPO REAL, VER QUEM TE MECIONOU E WALLPAPERS ANIMADO ❤️ 
+ "title":"Acompanhe todos os lançamentos e atualizações dos WhatsApps",
+ "description":" Os melhores WhatsApps, com funções privadas, você só encontra na Dext Team
 
 ",
- "download":"https://youtu.be/m-3gkI7aTB8"
+ "download":"https://youtube.com/@dextteam"
 }
