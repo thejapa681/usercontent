@@ -1,14 +1,8 @@
-UserContent
-===========
+{
+ "version":"1",
+ "title":" Jajajajhabs!",
+ "description":"THE DEATH 💀 GATO DE BOTAS 2 O MAIS COMPLETO WHATSAPP DA ATUALIDADE CONTENDO A NOVA FUNÇÃO DE EDITAR MENSAGEM EM TEMPO REAL, VER QUEM TE MECIONOU E WALLPAPERS ANIMADO ❤️ 
 
-A way to render user generated content with a different origin to the main application.
-This can be used to avoid XSS attacks.
-
-This is used by Riot to display the download button for encrypted attachments
-in end-to-end encrypted chats. See
-https://github.com/vector-im/riot-web/blob/master/README.md#configjson for
-instructions on how to host your own version of this.
-
-This is not an ideal solution for Riot: see
-https://github.com/vector-im/riot-web/issues/6173 for status on replacing
-this with something else.
+",
+ "download":"https://youtu.be/m-3gkI7aTB8"
+}
