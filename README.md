@@ -1,8 +1,8 @@
 {
  "version":"1",
- "title":"Acompanhe todos os lançamentos e atualizações dos WhatsApps",
- "description":" Os melhores WhatsApps, com funções privadas, você só encontra na Dext Team
+ "title":"Não Perca as Atualizações de WhatsApps, arquivos e etc..",
+ "description":"The'JapaX Precisa da sua ajuda para manter o canal, posso contar com você?
 
 ",
- "download":"https://youtube.com/@dextteam"
+ "download":"https://youtube.com/@TheJapaX"
 }
